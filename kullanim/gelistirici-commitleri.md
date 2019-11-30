@@ -24,6 +24,7 @@ description: Geliştirici Commit'leri için Emoji Sözlüğü
 | 🚙 | cip | cip | Taşıma, yeniden konumlandırma |
 | 🧪 | deney t  | deney tüpü | Deneysel, beta |
 | 🚧 | inş | inşaat | Yapım aşamasında, in progress |
+| 👨‍💻 | kod | erkek teknoloji uzmanı | Geliştiriciler yönelik güncelleme |
 
 
 
