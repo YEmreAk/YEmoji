@@ -102,4 +102,9 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | ☕ | kahve | sıcak içecek | Java, kahve |
 | 🤞 | şans | şans dileme | Yöntem, trick, numaralar |
 | 📢 | hop | hoparlör | Duyuru, bildirim |
+| 🔨 | çekiç | çekiç | Yapılandırma, ayarlar |
+| 🎈 | balon | balon | Başlangıç |
+| 💿 | disk  | optik disk | imaj, image, cd |
+| 🌌 | uzay | samanyolu | Whitespace |
+| 🏈🏀⚾🏐🏓🏉🧶🥎 | top | toplar | Maddeleme, listeleme \(1, 2, 3 gibi\) |
 
