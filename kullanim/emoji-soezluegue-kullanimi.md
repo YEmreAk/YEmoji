@@ -4,6 +4,17 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 
 # 🎀 Emoji Sözlüğü Kullanımı
 
+## 👮‍♂️ Emojlere Erişme
+
+* ⌨️ `Win` + `Ş` tuşu ile Windows için emoji klavyesini açabilirsin
+  * 🐞 Windows emoji klavyesinde bazı emojiler sorunludur
+  * 👁‍🗨 Emojiyi kullandığınızda farklı bir sembol geliyorsa, sorunludur
+* 🐧 Linux için [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) üzerinden emojileri kullanabilirsin
+
+{% hint style="info" %}
+🚀 En sorunsuz olanı [Emojipedia](https://emojipedia.org/keyboard/) sitesidir
+{% endhint %}
+
 ## 📋 Tüm Kullanımlar
 
 | Emoji | Anahtar | Aslı | Kullanım Alanı |
@@ -107,4 +118,5 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 💿 | disk  | optik disk | imaj, image, cd |
 | 🌌 | uzay | samanyolu | Whitespace |
 | 🏈🏀⚾🏐🏓🏉🧶🥎 | top | toplar | Maddeleme, listeleme \(1, 2, 3 gibi\) |
+| 🛒 | alış | alışveriş arabası | Almak, getirmek, get, kullanma |
 
