@@ -4,6 +4,12 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 
 # 🎀 Emoji Sözlüğü Kullanımı
 
+## 🔰 Emojilere Genel Bakış
+
+* 👁‍🗨  👁️
+*     👃    👂
+*     👄
+
 ## 👮‍♂️ Emojlere Erişme
 
 * ⌨️ `Win` + `Ş` tuşu ile Windows için emoji klavyesini açabilirsin
@@ -108,7 +114,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 🧪 | deney t | deney tüpü | Deneysel, beta, test |
 | 🐥 | önd | önden civciv | Front-end, ön tasarım |
 | 🐣 | civ | yumurtadan çıkan civciv | Back-end, arkaplan tasarımı |
-| 👁‍🗨 | göz | konuşma balonunda göz | Analiz, incelemek, bakmak |
+| 👁‍🗨, 👁️ | göz | konuşma balonunda göz | Analiz, incelemek, bakmak |
 | ⭕ | çember | kalın kırmızı çember | Küme |
 | ☕ | kahve | sıcak içecek | Java, kahve |
 | 🤞 | şans | şans dileme | Yöntem, trick, numaralar |
@@ -120,4 +126,5 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 🏈🏀⚾🏐🏓🏉🧶🥎 | top | toplar | Maddeleme, listeleme \(1, 2, 3 gibi\) |
 | 🛒 | alış | alışveriş arabası | Almak, getirmek, get, kullanma |
 | ⚛️ | atom | atom | React |
+|  |  |  |  |
 
