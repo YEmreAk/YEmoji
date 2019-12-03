@@ -4,7 +4,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 
 # 🎀 Emoji Sözlüğü Kullanımı
 
-## 🔰 Emojilere Genel Bakış
+## 🙋‍♂️ Emojilerle Tanışın
 
 * 👁‍🗨  👁️
 *     👃    👂
