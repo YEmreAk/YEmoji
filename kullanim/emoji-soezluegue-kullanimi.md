@@ -119,4 +119,5 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 🌌 | uzay | samanyolu | Whitespace |
 | 🏈🏀⚾🏐🏓🏉🧶🥎 | top | toplar | Maddeleme, listeleme \(1, 2, 3 gibi\) |
 | 🛒 | alış | alışveriş arabası | Almak, getirmek, get, kullanma |
+| ⚛️ | atom | atom | React |
 
