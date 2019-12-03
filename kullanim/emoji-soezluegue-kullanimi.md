@@ -126,5 +126,8 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 🏈🏀⚾🏐🏓🏉🧶🥎 | top | toplar | Maddeleme, listeleme \(1, 2, 3 gibi\) |
 | 🛒 | alış | alışveriş arabası | Almak, getirmek, get, kullanma |
 | ⚛️ | atom | atom | React |
-|  |  |  |  |
+
+{% hint style="info" %}
+📢 Burası kategorilere ayrıştırılmalıdır
+{% endhint %}
 
