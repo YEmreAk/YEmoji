@@ -127,7 +127,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 🛒 | alış | alışveriş arabası | Almak, getirmek, get, kullanma |
 | ⚛️ | atom | atom | React |
 
-{% hint style="info" %}
+{% hint style="warning" %}
 📢 Burası kategorilere ayrıştırılmalıdır
 {% endhint %}
 
