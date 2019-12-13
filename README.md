@@ -1,5 +1,7 @@
 ---
-description: Emojileri etkili kullanma adına kişisel varsayımlarım
+description: >-
+  Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın emoji ve emoji kişiselleştirmesi
+  hakkındaki notları
 ---
 
 # 🚀 YEmoji
