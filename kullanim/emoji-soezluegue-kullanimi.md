@@ -6,7 +6,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 
 ## 🙋‍♂️ Emojilerle Tanışın
 
-* 👁‍🗨  👁️
+* 👁‍🗨   👁️
 *     👃    👂
 *     👄
 
@@ -29,6 +29,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 | 🧱 | duvar | Tuğla | Temel, yapı |
 | ⭐ | yıldız | yıldız | Örnek |
 | 🌟 | parıl | parıldayan yıldız | Çok önemli, aşırı bilgilendirici, aşırılık |
+| 🔸 | karo | küçük turuncu karo | Bilgi, info |
 | 👨‍💻 | kod | erkek-teknoloji uzmanı | Kodlama, programlama, geliştirici |
 | 🎇 | havai | fişek | Güncel |
 | 🔡 | küçük | küçük harfler | String, harf, alfabe |
