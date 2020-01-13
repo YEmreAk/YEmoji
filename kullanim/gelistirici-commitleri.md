@@ -4,12 +4,24 @@ description: Geliştirici Commit'leri için Emoji Sözlüğü
 
 # 👨‍💻 Geliştirici Commit'leri
 
+## 🌟 Sık Kullanılanlar
+
+| ⭐ YEmoji | 🌱 YHotkeys | 🧱 Aslı | 📝 Kullanım Amacı |
+| :--- | :--- | :--- | :--- |
+| 👨‍🔧 | :cs: :cd: | Tamir | Sorun giderme, düzeltme, tamir |
+| 💦 | :ct: | ? | Temizleme, sadeleştirme |
+| ➕ | :ce: | + | Ekleme, yenilik |
+| ✨ | :cg: | parıltı | Geliştirme, güncelleme, yükseltme |
+| 🏗️ | :cy: | bina inşaatı | Temelleri oluşturma, temel atma, başlangıç |
+| 🚚 | :ca: | kamyon | Aktarma, taşıma |
+| 🤝 | :cd: | anlaşma | Destekleme, support |
+
 ## 📋 Tüm Kullanımlar
 
 | Emoji | Anahtar | Aslı | Kullanım Alanı |
 | :--- | :--- | :--- | :--- |
 | ✨ | parıltı | parıltı | Yenilik, güzelleştirme, özelleştirme |
-| 🧹 | süpürge | süpürge | Temizlik, silme, kaldırma |
+| 💦 | süpürge | süpürge | Temizlik, silme, kaldırma |
 | 🎉 | part | parti konfetisi | İlk işlem, yeni giriş, initial commit |
 | 🔀 | parça k | parça karıştırma düğmesi | Branch ekleme, merge |
 | 📃 | sayfa | kıvrık sayfa | Metin dosyası ekleme |
