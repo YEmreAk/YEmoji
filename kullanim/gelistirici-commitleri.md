@@ -8,13 +8,28 @@ description: Geliştirici Commit'leri için Emoji Sözlüğü
 
 | ⭐ YEmoji | 🌱 YHotkeys | 🧱 Aslı | 📝 Kullanım Amacı |
 | :--- | :--- | :--- | :--- |
-| 👨‍🔧 | :cs: :cd: | Tamir | Sorun giderme, düzeltme, tamir |
-| 💦 | :ct: | ? | Temizleme, sadeleştirme |
-| ➕ | :ce: | + | Ekleme, yenilik |
-| ✨ | :cg: | parıltı | Geliştirme, güncelleme, yükseltme |
-| 🏗️ | :cy: | bina inşaatı | Temelleri oluşturma, temel atma, başlangıç |
-| 🚚 | :ca: | kamyon | Aktarma, taşıma |
-| 🤝 | :cd: | anlaşma | Destekleme, support |
+| 👨‍🔧 | `:ct:` | Tamir | Sorun giderme, düzeltme, tamir |
+| 💦 | `:c-:` | ? | Temizleme, sadeleştirme |
+| ➕ | `:c+:` | + | Ekleme, yenilik |
+| ✨ | `:cy:` | parıltı | Geliştirme, güncelleme, yükseltme |
+| 🏗️ | `:ci:` | bina inşaatı | Temelleri oluşturma, temel atma, başlangıç |
+| 🚚 | `:ca:` | kamyon | Aktarma, taşıma |
+| 🤝 | `:cd:` | anlaşma | Destekleme, support |
+| 🔄 | :cg: | saat yönün tersine dönen | geçiş, değiştirme |
+
+## 📝 Commit için Emojiler \(👨‍🔬\)
+
+| 💞 Emoji | 🔸 Commit |
+| :--- | :--- |
+| 📝 | Doküman |
+| 📶 | Haberleşme, sinyal, WiFi |
+| 🔥 | Firebase |
+| 🔔 | Bildirim |
+| 📅 | Tablo |
+| 🕳️ | Socket |
+| 👨‍💻 | Kod |
+| 👮‍♂️ | Issue, kural, kalıp |
+| 💰 | Sponsorluk |
 
 ## 📋 Tüm Kullanımlar
 
