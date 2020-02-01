@@ -2,8 +2,11 @@
 
 | 💞 YEmoji | 📝 Açıklama |
 | :--- | :--- |
+| 👨‍🏫 | Eğitici çalışmalar |
 | 👨‍💻 | Kod bağlantısı |
 | 📖 | Dokümantasyon |
 | 📃 | Makaleler |
-| 👨‍🏫 | Eğitici bağlantılar |
+| ✍ | El yazıları |
+
+
 
