@@ -1,4 +1,4 @@
-# 🔗 Faydalı Bağlantılar
+# ⭐ Benzer Çalışmalar
 
 ## 🤸‍♂️ GitHub Emoji Cheat Sheets
 

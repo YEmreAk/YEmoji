@@ -1,5 +1,7 @@
 # 🔗 Bağlantılar
 
+## 🎌 YEmoji Kullanımları
+
 | 💞 YEmoji | 📝 Açıklama |
 | :--- | :--- |
 | 👨‍🏫 | Eğitici çalışmalar |
@@ -8,6 +10,11 @@
 | 📃 | Makaleler |
 | ✍ | El yazıları |
 | 👨‍🔬 | Test içerikleri |
+| 👪 | Topluluk veya gruplar |
 
+## 🐣 Kullanımı Belirtme
 
+{% hint style="success" %}
+🚀 Bu alandaki bağlantılar [YEmoji ~Bağlantılar](https://emoji.yemreak.com/kullanim/baglantilar) yapısına uygundur
+{% endhint %}
 

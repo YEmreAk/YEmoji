@@ -2,13 +2,13 @@
 
 * [🚀 YEmoji](README.md)
 * [🔰 Emojilerin Dünyasına Giriş](giris.md)
+* [⭐ Benzer Çalışmalar](benzer-calismalar.md)
 
 ## Kullanım
 
 * [📖 YEmoji Sözlüğü 👨‍🔬](kullanim/yemoji-sozlugu.md)
 * [🔗 Bağlantılar](kullanim/baglantilar.md)
 * [👨‍💻 Geliştirici Commit'leri](kullanim/gelistirici-commitleri.md)
-* [🔗 Faydalı Bağlantılar](kullanim/faydali-baglantilar.md)
 
 ## Derlenmiş Çalışmalarım
 
