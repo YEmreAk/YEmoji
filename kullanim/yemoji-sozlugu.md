@@ -2,7 +2,7 @@
 description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barındırır
 ---
 
-# 📖 YEmoji Sözlüğü \(👨‍🔬\)
+# 📖 YEmoji Sözlüğü 👨‍🔬
 
 ## 🙋‍♂️ Emojilerle Tanışın
 
