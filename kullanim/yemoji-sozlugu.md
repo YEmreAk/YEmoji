@@ -21,7 +21,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 🚀 En sorunsuz olanı [Emojipedia](https://emojipedia.org/keyboard/) sitesidir
 {% endhint %}
 
-## 🎌 YEmoji Kullanımları \(👨‍🔬\)
+## 🎌 YEmoji Kullanımları 👨‍🔬
 
 | Emoji | Anahtar | Aslı | Kullanım Alanı |
 | :--- | :--- | :--- | :--- |
