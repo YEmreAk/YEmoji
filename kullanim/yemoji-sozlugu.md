@@ -2,7 +2,7 @@
 description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barındırır
 ---
 
-# 📖 Emoji Sözlüğü \(👨‍🔬\)
+# 📖 YEmoji Sözlüğü \(👨‍🔬\)
 
 ## 🙋‍♂️ Emojilerle Tanışın
 
@@ -21,7 +21,7 @@ description: Emojleri kullanma adına kişiselleştirilmiş notlarımı barınd�
 🚀 En sorunsuz olanı [Emojipedia](https://emojipedia.org/keyboard/) sitesidir
 {% endhint %}
 
-## 📋 Tüm Kullanımlar
+## 🎌 YEmoji Kullanımları \(👨‍🔬\)
 
 | Emoji | Anahtar | Aslı | Kullanım Alanı |
 | :--- | :--- | :--- | :--- |

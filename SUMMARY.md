@@ -5,7 +5,7 @@
 
 ## Kullanım
 
-* [📖 Emoji Sözlüğü \(👨‍🔬\)](kullanim/emoji-soezluegue-kullanimi.md)
+* [📖 YEmoji Sözlüğü \(👨‍🔬\)](kullanim/yemoji-sozlugu.md)
 * [🔗 Bağlantılar](kullanim/baglantilar.md)
 * [👨‍💻 Geliştirici Commit'leri](kullanim/gelistirici-commitleri.md)
 * [🔗 Faydalı Bağlantılar](kullanim/faydali-baglantilar.md)
