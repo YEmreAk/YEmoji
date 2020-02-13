@@ -11,6 +11,9 @@
 | ✍ | El yazıları |
 | 👨‍🔬 | Test içerikleri |
 | 👪 | Topluluk veya gruplar |
+| 💰 | Paralı |
+| 📺 | Video |
+| 📹 | Slayt |
 
 ## 🐣 Kullanımı Belirtme
 
