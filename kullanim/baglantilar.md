@@ -18,6 +18,6 @@
 ## 🐣 Kullanımı Belirtme
 
 {% hint style="success" %}
-🚀 Bu alandaki bağlantılar [YEmoji ~Bağlantılar](https://emoji.yemreak.com/kullanim/baglantilar) yapısına uygundur
+🚀 Bu alandaki bağlantılar [YEmoji ~Bağlantılar](https://emoji.yemreak.com/kullanim/baglantilar)  yapısına uygundur
 {% endhint %}
 
