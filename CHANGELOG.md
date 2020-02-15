@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 15/02/2020 - 18:19:20 - [✨](https://github.com/YEmreAk/YEmoji/commit/d7601c64e3d8dd82c558cc9393a4273bb94fd92b?diff=split) ~ Yunus Emre
 - 15/02/2020 - 08:32:30 - [GitBook: [master] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/1c9c9302b4a7dc27900c2959cd5b581b32fbee56?diff=split) ~ Yunus Emre
 - 13/02/2020 - 10:47:24 - [GitBook: [master] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/1fbfac4614ba46c99f8d7768015d9276390e5137?diff=split) ~ Yunus Emre
 - 13/02/2020 - 10:00:42 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YEmoji/commit/736b1dc9916d0ed7c604dabce0d538be3749c4bd?diff=split) ~ Yunus Emre
