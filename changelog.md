@@ -1,0 +1,42 @@
+# 👀 Neler Değişti
+
+## 📋 Tüm Değişiklikler
+
+* 15/02/2020 - 18:19:20 - [✨](https://github.com/YEmreAk/YEmoji/commit/d7601c64e3d8dd82c558cc9393a4273bb94fd92b?diff=split) ~ Yunus Emre
+* 15/02/2020 - 08:32:30 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/1c9c9302b4a7dc27900c2959cd5b581b32fbee56?diff=split) ~ Yunus Emre
+* 13/02/2020 - 10:47:24 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/1fbfac4614ba46c99f8d7768015d9276390e5137?diff=split) ~ Yunus Emre
+* 13/02/2020 - 10:00:42 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/736b1dc9916d0ed7c604dabce0d538be3749c4bd?diff=split) ~ Yunus Emre
+* 13/02/2020 - 10:00:21 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/834450e091cf1a6bf0c2d4359eba6f31d4eebb96?diff=split) ~ Yunus Emre
+* 06/02/2020 - 14:33:48 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/123c25b82b9119867bfbbbee3c851aae307af28b?diff=split) ~ Yunus Emre
+* 06/02/2020 - 14:32:11 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/1d0dcc1f247a5bc4c710da342c84f8fc8877547d?diff=split) ~ Yunus Emre
+* 06/02/2020 - 14:32:02 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/2874f82f52acfb8304c77c6bd014e444a0d45994?diff=split) ~ Yunus Emre
+* 06/02/2020 - 14:31:24 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/3be520fbae9a62561091478fc0128185fd4d1083?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:09:42 - [GitBook: \[master\] 5 pages modified](https://github.com/YEmreAk/YEmoji/commit/b4177ed5f3efbbe9e48045f6113cfe0266a1f078?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:08:16 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/463006ca7c51bbdd90bab63304695a0dda0c5fe2?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:08:10 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/38df0f6a72121a00b35ba9d9597656bb793c8518?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:07:58 - [GitBook: \[master\] 4 pages modified](https://github.com/YEmreAk/YEmoji/commit/b2b6c92d481829ac2ffe37e7b846aea07126dc6e?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:06:57 - [GitBook: \[master\] 3 pages modified](https://github.com/YEmreAk/YEmoji/commit/9f4b5a2a5741e769ecece80bf16dea5b25089f3b?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:06:17 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/f4e0dcd5bcc192eaedd4463bdd9691b1430c7499?diff=split) ~ Yunus Emre
+* 03/02/2020 - 08:02:58 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/bb15ea6645fd1418684c86b4abd1accff4c04806?diff=split) ~ Yunus Emre
+* 01/02/2020 - 23:15:19 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/375b524018d0fe88524b2eef94424f2659f6536c?diff=split) ~ Yunus Emre
+* 01/02/2020 - 17:48:57 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/0d8995c8feeaf0e5e436de8bef2149f5d51674e4?diff=split) ~ Yunus Emre
+* 01/02/2020 - 17:47:56 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/85c3a421f3706ecde105cf84a7c5c65d98b6ebf6?diff=split) ~ Yunus Emre
+* 30/01/2020 - 17:31:20 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/8068463a572ec4f0307a17f1a6dbf38e0d1542a6?diff=split) ~ Yunus Emre
+* 13/01/2020 - 07:33:03 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/0a299ff5ca8f241a9801bee86773c96cd6e2a5de?diff=split) ~ Yunus Emre
+* 27/12/2019 - 12:55:24 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/cf237d95cfcdd888c16f7ae4b49e2cfb73845d1b?diff=split) ~ Yunus Emre
+* 13/12/2019 - 14:53:01 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/e102f04599d9bc835500aa264076215cde60e853?diff=split) ~ Yunus Emre
+* 11/12/2019 - 15:26:34 - [©️ Lisans yenilendi](https://github.com/YEmreAk/YEmoji/commit/3a8506efe1f671c0bba657635140190222fe68ae?diff=split) ~ Yunus Emre
+* 11/12/2019 - 15:22:27 - [📝 Lisans alanı yenilendi](https://github.com/YEmreAk/YEmoji/commit/b82e05f639a5af076798fa59c2423ef8d09a3898?diff=split) ~ Yunus Emre
+* 03/12/2019 - 20:26:53 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/2aafa083d5e594a4cdd48b55a5b4d1445bec4965?diff=split) ~ Yunus Emre
+* 03/12/2019 - 20:26:46 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/6c2f4c149c45bb5a8dc8276dcca9c68e38ac1c34?diff=split) ~ Yunus Emre
+* 03/12/2019 - 20:26:12 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/6e32ab072df13ed2be7fdd97b200c3886745210c?diff=split) ~ Yunus Emre
+* 03/12/2019 - 20:25:38 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/37760c342e88af8549a6e9bcde956ba7abe27b47?diff=split) ~ Yunus Emre
+* 03/12/2019 - 20:23:25 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/8e3cfa11bab92a26d219d7ecc278906fd5abfd71?diff=split) ~ Yunus Emre
+* 03/12/2019 - 20:21:11 - [GitBook: \[master\] 2 pages modified](https://github.com/YEmreAk/YEmoji/commit/078848909c5527c2d0b86727ebb6392589eb4d57?diff=split) ~ Yunus Emre
+* 30/11/2019 - 20:08:56 - [☕ Java notlarım eklendi](https://github.com/YEmreAk/YEmoji/commit/77abf498b3d73b5454750ca2bb9fb8784630b328?diff=split) ~ Yunus Emre
+* 30/11/2019 - 15:49:01 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/8ed0e608ab89940ec5ca930f5db777eadb56e135?diff=split) ~ Yunus Emre
+* 30/11/2019 - 13:53:11 - [GitBook: \[master\] one page modified](https://github.com/YEmreAk/YEmoji/commit/b6fbd74eaee6b5ae66a19f8f837f9ae84881a95c?diff=split) ~ Yunus Emre
+* 27/11/2019 - 06:46:17 - [GitBook: \[master\] one page and 2 assets modified](https://github.com/YEmreAk/YEmoji/commit/8c8a49573b31a270cee3e3b6d200cf6ac2058652?diff=split) ~ Yunus Emre
+* 27/11/2019 - 06:44:06 - [GitBook: \[master\] 6 pages modified](https://github.com/YEmreAk/YEmoji/commit/751bc8cfff3369a0c739adc4ca187c419ad85054?diff=split) ~ Yunus Emre
+* 27/11/2019 - 09:43:13 - [Initial commit](https://github.com/YEmreAk/YEmoji/commit/27b976eaa06fcefdc93b70109fcce05003d4b809?diff=split) ~ Yunus Emre
+

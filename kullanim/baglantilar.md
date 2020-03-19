@@ -14,6 +14,7 @@
 | 💰 | Paralı |
 | 📺 | Video |
 | 📹 | Slayt |
+| 💦 | Temizleme, kaldırma, silme |
 
 ## 🐣 Kullanımı Belirtme
 
