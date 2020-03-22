@@ -4,12 +4,12 @@
 
 | 💞 YEmoji | 📝 Açıklama |
 | :--- | :--- |
-| 👨‍🏫 | Eğitici çalışmalar |
-| 👨‍💻 | Kod bağlantısı |
+| 👨‍🏫👩‍🏫 | Eğitici çalışmalar |
+| 👨‍💻👩‍💻 | Kod bağlantısı |
 | 📖 | Dokümantasyon |
 | 📃 | Makaleler |
 | ✍ | El yazıları |
-| 👨‍🔬 | Test içerikleri |
+| 👨‍🔬👩‍🔬 | Test içerikleri |
 | 👪 | Topluluk veya gruplar |
 | 💰 | Paralı |
 | 📺 | Video |
