@@ -6,7 +6,7 @@ description: "Geliştirici Commit'leri için Emoji Sözlüğü \U0001F6A7"
 
 ## 🌟 Sık Kullanılanlar
 
-* 🏗️ Emoji yapısı `<içerik><eylem><mesaj><durum>` şeklinde olabilir 🚧
+* 🏗️ Emoji yapısı `<durum><içerik><eylem><mesaj>` şeklinde olabilir 🚧
 
 | ⭐ YEmoji | 🌱 YHotkeys | 🧱 Aslı | 📝 Kullanım Amacı |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ description: "Geliştirici Commit'leri için Emoji Sözlüğü \U0001F6A7"
 | 🐛 | Hata |
 | 👨‍💻 | Kodlama, kaynak kodu |
 | 📜 | Raporlama, günlükler, çıktılar, kayıtlar |
-| ⚗️✅ | Test işlemleri |
+| ⚗️ | Test işlemleri |
 | ⚡ | Performans |
 | 📖 | Dokümantasyon |
 | ⚙️ | Yapılandırma ayarları |
@@ -63,6 +63,7 @@ description: "Geliştirici Commit'leri için Emoji Sözlüğü \U0001F6A7"
 | 💬 | Soru sorma |
 | 👀 | İnceleme |
 | 📝 | Not alma |
+| ✅ | Onaylama |
 
 ## 🐥 Durumlara Göre Yemojiler
 
