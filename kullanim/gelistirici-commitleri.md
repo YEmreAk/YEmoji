@@ -24,7 +24,7 @@ description: "Geliştirici Commit'leri için Emoji Sözlüğü \U0001F6A7"
 | 💞 İçerik Emojisi | 🔸 Anlamı |
 | :--- | :--- |
 | 🤹 | Fonksiyonellik |
-| 🐛 | Hata |
+| 🐞 | Hata |
 | 👨‍💻 | Kodlama, kaynak kodu |
 | 📜 | Raporlama, günlükler, çıktılar, kayıtlar |
 | ⚗️ | Test işlemleri |
