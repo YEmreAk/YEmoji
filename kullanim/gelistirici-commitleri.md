@@ -1,5 +1,5 @@
 ---
-description: Geliştirici Commit'leri için Emoji Sözlüğü
+description: "Geliştirici Commit'leri için Emoji Sözlüğü \U0001F6A7"
 ---
 
 # 👨‍💻 Geliştirici Commit'leri
@@ -17,11 +17,65 @@ description: Geliştirici Commit'leri için Emoji Sözlüğü
 | 🤝 | `:cd:` | anlaşma | Destekleme, support |
 | 🔄 | :cg: | saat yönün tersine dönen | geçiş, değiştirme |
 
-## 📝 Commit için Emojiler \(👨‍🔬\)
+## 📖 İçeriğe Göre Yemojiler
+
+| 💞 İçerik Emojisi | 🔸 Anlamı |
+| :--- | :--- |
+| 🤹 | Fonksiyonellik |
+| 🐛 | Hata |
+| 👨‍💻 | Kodlama, kaynak kodu |
+| 📜 | Raporlama, günlükler, çıktılar, kayıtlar |
+| ⚗️✅ | Test işlemleri |
+| ⚡ | Performans |
+| 📖 | Dokümantasyon |
+| ⚙️ | Yapılandırma ayarları |
+| 🔒 | Güvenlik |
+| 🎨 | Arayüz, tasarım |
+| 💫 | Animasyon veya geçişler |
+| 💚 | CI, continuous integration |
+| 🔨 | Compile, build için script işlemleri |
+| 📦 | Paket, derleme veya inşa etme \(compile, build\) |
+| 🍱 | Kaynaklar \(assets\) |
+| 🗃️ |  Veri tabanı |
+| 👥 | Katkı sağlama, contributors |
+| 🏗️ | Mimari ve yapısal değişiklikler |
+| 🏷️ | Versiyon |
+| 🚇 | Infrastructure, travis, appveyor vs |
+| 🔌 | Eklenti |
+
+## 🤸‍♂️ Eyleme Göre Yemojiler
+
+| 💞 Eylem Emojisi | 🔸 Anlamı |
+| :--- | :--- |
+| 👨‍🔧 | Tamir, düzeltme |
+| 👨‍🔬 | Deneme, test etme |
+| ✨ | Geliştirme, iyileştirme, güncelleme |
+| 🔄 | Senkronize etme, uyumlu hale getirme |
+| 💦 | Temizleme, kaldırma |
+| ➕ | Ekleme |
+| 🚚 | Taşıma, aktarma |
+| 🚀 | Yayınlama |
+| 🤝 | Destekleme |
+| 📡 | Yayınlama |
+| 📢 | Duyurma |
+| 💬 | Soru sorma |
+| 👀 | İnceleme |
+| 📝 | Not alma |
+
+## 🐥 Durumlara Göre Yemojiler
+
+| 💞 Durum Emojisi | 🔸 Anlamı |
+| :--- | :--- |
+| 📈 | Artış, yükseliş |
+| 📉 | Azalıma, gerileme |
+| 💥 | Ani gelişmeler |
+| 🚧 | Yapım aşamasında |
+| 👨‍🔬 | Deneysel |
+
+## 🧰 Teknolojilere Göre Yemojiler \(👨‍🔬\)
 
 | 💞 Emoji | 🔸 Commit |
 | :--- | :--- |
-| 📝 | Doküman |
 | 📶 | Haberleşme, sinyal, WiFi |
 | 🔥 | Firebase |
 | 🔔 | Bildirim |
@@ -53,5 +107,8 @@ description: Geliştirici Commit'leri için Emoji Sözlüğü
 | 🚧 | inş | inşaat | Yapım aşamasında, in progress |
 | 👨‍💻 | kod | erkek teknoloji uzmanı | Geliştiriciler yönelik güncelleme |
 
+## 🔗 Faydalı Kaynaklar
 
+* [Emoji Key ✨ - All Contributors](https://allcontributors.org/docs/en/emoji-key)
+* [emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages)
 
