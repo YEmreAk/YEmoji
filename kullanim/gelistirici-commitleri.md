@@ -6,6 +6,8 @@ description: "Geliştirici Commit'leri için Emoji Sözlüğü \U0001F6A7"
 
 ## 🌟 Sık Kullanılanlar
 
+* 🏗️ Emoji yapısı `<içerik><eylem><mesaj><durum>` şeklinde olabilir 🚧
+
 | ⭐ YEmoji | 🌱 YHotkeys | 🧱 Aslı | 📝 Kullanım Amacı |
 | :--- | :--- | :--- | :--- |
 | 👨‍🔧 | `:ct:` | Tamir | Sorun giderme, düzeltme, tamir |
