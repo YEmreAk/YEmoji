@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [🚀 YEmoji](README.md)
-* [👀 Neler Değişti](changelog.md)
+* [👀 Neler Değişti](https://github.com/YEmreAk/YEmoji/blob/master/CHANGELOG.md)
 * [🔰 Emojilerin Dünyasına Giriş](giris.md)
 * [⭐ Benzer Çalışmalar](benzer-calismalar.md)
 
@@ -33,4 +33,3 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
